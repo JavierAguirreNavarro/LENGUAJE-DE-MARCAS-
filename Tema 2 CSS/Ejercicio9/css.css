@@ -1,0 +1,50 @@
+img {
+    width: 100px;
+    height: px;
+    float: right;
+}
+
+#header {
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    padding: 16px;
+    float: left;
+    margin: 1px;
+}
+
+#colizq {
+    background-color: aqua;
+    width: 65%;
+    float: left;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    padding: 16px;
+    margin: 1px;
+}
+
+#colder {
+    background-color: rgb(51, 255, 0);
+    width: 25%;
+    float: right;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    padding: 16px;
+    margin: 1px;
+}
+
+#footer {
+    background-color: blue;
+    height: 0px;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    padding: 16px;
+    clear: both;
+    margin: 1px;
+}

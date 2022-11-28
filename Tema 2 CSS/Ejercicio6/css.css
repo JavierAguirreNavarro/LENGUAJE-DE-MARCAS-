@@ -3,16 +3,27 @@
     border-style: dashed;
     border-color: black;
     font-size: 1em;
+    background-color: black;
 }
 #capa2{
     width: 33%;
     border-style: dashed;
     border-color: red;
     font-size: 1.2em;
+    background-color: red;
+
 }
 #capa3{
     width: 25%;
     border-style: dashed;
     border-color: blue;
     font-size: 0.8em;
+    background-color: blue;
+}
+#capa3{
+    width: 15%;
+    border-style: dashed;
+    border-color: purple;
+    font-size: 0.8em;
+    background-color: purple;
 }
