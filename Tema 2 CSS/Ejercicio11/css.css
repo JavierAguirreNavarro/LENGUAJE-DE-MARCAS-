@@ -1,0 +1,9 @@
+ol {
+    list-style-type: lower-roman;
+}
+
+ul {
+    list-style-type: square; 
+    list-style-image: url("i.png");
+    list-style-position: inside;
+}
