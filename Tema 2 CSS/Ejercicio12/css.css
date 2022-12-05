@@ -1,0 +1,39 @@
+#div1 {
+    border: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+
+#div2 {
+    background-color: blueviolet;
+    float: left;
+    width: 20%;
+    height: 100px;
+}
+
+#div3 {
+    background-color: rgb(108, 108, 250);
+    float: right;
+    width: 79%;
+    height: 70%;
+}
+
+a {
+    margin: 8px;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+
+#puy {
+    float: left;
+    margin: 15px;
+
+}
+
+#cham {
+    float: right;
+    margin: 15px;
+    width: 18%;
+    height: 25%;
+}
