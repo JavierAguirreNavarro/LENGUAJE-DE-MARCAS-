@@ -1,0 +1,52 @@
+#cabecera {
+    float: left;
+    height: 150px;
+
+    width: 50%;
+    background-color: rgb(247, 255, 140);
+}
+
+#cabeceraderecha {
+    float: right;
+    height: 150px;
+    width: 50%;
+    background-color: rgb(247, 255, 140);
+
+}
+#conectar{
+    background-color: rgb(247, 255, 140);
+    border-color: red;
+    color: red;
+}
+
+#medioizquierda {
+    float: left;
+    height: 450px;
+    width: 50%;
+    background-color: rgb(247, 255, 140);
+
+}
+
+#medioderecha {
+    float: right;
+    height: 450px;
+    width: 50%;
+    background-color: rgb(247, 255, 140);
+}
+
+#footer {
+    width: 100%;
+    height: 75px;
+    background-color: rgb(247, 255, 140);
+    clear: both;
+}
+#enviar{
+    background-color: rgb(247, 255, 140);
+    border-color: red;
+    color: red;
+}
+#borrar{
+    background-color: rgb(247, 255, 140);
+    border-color: red;
+    color: red;
+}
