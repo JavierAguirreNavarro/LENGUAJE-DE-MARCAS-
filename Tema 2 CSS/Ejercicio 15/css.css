@@ -1,0 +1,54 @@
+#cabecera {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+#buscadores {
+    background-color: grey;
+    float: left;
+    width: 20%;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+    
+}
+
+#buscadores2 {
+    background-color: rgb(238, 255, 161);
+    float: left;
+    width: 100%;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+div p {
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.4em;
+}
+
+div p a {
+    color: blue;
+    text-decoration: none;
+}
