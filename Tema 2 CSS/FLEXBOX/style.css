@@ -1,0 +1,72 @@
+body {
+  margin: 0; 
+  padding: 0px;
+  font-family: verdana, serif;
+}
+
+header{
+  padding: 30px;
+  background-color: aqua;
+  color: black;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+nav{
+  display: flex;
+  justify-content: flex-start;
+  background-color: azure;
+}
+
+nav a{
+  color: blue;
+  text-decoration: none;
+  padding: 15px;
+}
+
+nav a :hover{
+background-color: yellow;
+color:red;
+}
+
+/*.flex-container {
+  height: 500px;
+  background-color: #404040;
+  border-radius: 10px;
+  border: solid 2px yellow;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-end;
+  flex-flow: row wrap;
+}
+
+.flex-container>* {
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 10px;
+  background: #f18c55;
+}
+
+.one {
+  order: 0;
+  align-self: flex-start;
+  height: 100px;
+}
+
+.two {
+  order: 0;
+  align-self: flex-end;
+  height: 100px;
+
+}
+
+.three {
+  order: -1;
+  height: 100px;
+
+}
+*/
